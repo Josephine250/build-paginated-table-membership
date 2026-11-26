@@ -63,4 +63,7 @@ I used a **horizontal scroll container with a sticky name column**. Every column
 <img width="335" height="418" alt="Screenshot 2026-11-25 194612" src="https://github.com/user-attachments/assets/9cdcd09b-d17b-4b90-af65-7dd32db58ce9" />
 <img width="549" height="383" alt="Screenshot 2026-11-25 194638" src="https://github.com/user-attachments/assets/01615230-72b6-4ad8-a85e-5667cad0d3c1" />
 
+<img width="923" height="418" alt="image" src="https://github.com/user-attachments/assets/a30a9d7e-ef10-4c59-8579-90a8d5fc4f5a" />
+
+
 
